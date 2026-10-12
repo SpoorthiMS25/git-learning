@@ -1,3 +1,3 @@
 print("hello world")
 print("This is a sample learning script.")  
-print("hi")
+print("Let's explore some basic Python concepts.")
